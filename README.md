@@ -30,11 +30,11 @@
 <tr>
   <td>Go</td>
   <td>1.10.3</td>
-  <td><a href="golang.org" alt= "goland.org">goland.org</a></td>
+  <td><a href="golang.org" alt="goland.org">goland.org</a></td>
 </tr> 
 <tr>
   <td>PHP</td>        
-  <td>7.1.20<t/d>    
+  <td>7.1.20</td>    
   <td><a href= "php.net">hp.net</a></td>
 </tr>
 <tr>
