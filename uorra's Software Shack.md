@@ -35,20 +35,20 @@
 <tr>
   <td>PHP</td>        
   <td>7.1.20</td>    
-  <td><a href="php.net" alt="php.net">php.net</a></td>
+  <td><a href="https://www.php.net/" alt="https://www.php.net/">php.net</a></td>
 </tr>
 <tr>
   <td>Python</td>
   <td>3.7.0</td>
-  <td><a href="python.org" alt="python.org">python.org</a></td>
+  <td><a href="https://www.python.org/" alt="https://www.python.org/">python.org</a></td>
 </tr>
   <td>Ruby</td>      
   <td>2.5.1</td>      
-  <td><a href="ruby-lang.org" alt="ruby-lang.org">ruby-lang.org</a></td>
+  <td><a href="http://ruby-lang.org/" alt="http://ruby-lang.org/">ruby-lang.org</a></td>
 <tr>
 <td>Swift</td>      
     <td>4.1.3</td>      
-  <td><a href="swift.org" alt="swift.org">swift.org</a></td>
+  <td><a href="https://swift.org/" alt="https://swift.org/">swift.org</a></td>
 </tr>
 </table>
 
